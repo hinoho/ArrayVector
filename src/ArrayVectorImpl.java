@@ -1,4 +1,4 @@
-//package ru.skillbench.tasks.basics.math;
+package ru.skillbench.tasks.basics.math;
 
 import java.util.Arrays;
 
